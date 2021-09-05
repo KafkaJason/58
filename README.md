@@ -20,3 +20,6 @@
 
 ## 解决方案
 http://kafkajason.top/index.php/archives/9/
+
+## 数据下载网址
+https://tech.58.com/game/problemDesc?contestId=4&token=58tech
