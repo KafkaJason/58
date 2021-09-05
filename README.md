@@ -1,7 +1,6 @@
 ## 当前项目目录如下 
     .
     ├── README.md
-    ├── 解决方案报告.doc
     ├── data
     |   ├── train.txt (训练集)
     |   └── test.txt (测试集)
@@ -19,4 +18,5 @@
 
 结果文件: ./code/final_result.csv
 
-
+## 解决方案
+http://kafkajason.top/index.php/archives/9/
